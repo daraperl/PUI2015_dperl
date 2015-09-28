@@ -14,3 +14,8 @@ generated sample size against the sample mean for 100 points.  The population me
 Additionally, the sample mean was plotted as a histogram. This histogram centers around the population mean as expected. 
 This Assignment takes no arguments (input variables) and has no global set ups 
 
+HW3 Assignment 2
+
+Contributors: Dara Perl, Maria Ortiz, Hannah Kates
+
+In this file we reproduced the research from post prison employment research.  This work was done using the binomial distribution and the chi-squared distribution.  As a group, we reviewed the statistics involved and discussed the findings, however each person made their own ipython notebook and completed their own work.  
