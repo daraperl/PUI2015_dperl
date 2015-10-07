@@ -26,4 +26,15 @@ Readme File for PUI 2015 HW4 Assignment 1:
 Team Members: Dara Perl
 
 Required Data: January 2015 Citibike Data
+
 In this file I used the January 2015 Citibike Data and the KS, Pearson and Spearman Tests to test the goodness of fit of male and female and day and night riders. 
+
+
+
+Readme File for PUI 2015 HW4 Assignment 3:
+
+Team Members: Dara Perl
+
+Required Data: 2014 Citibike Data (all months)
+
+In this file I used the 2014 Citibike Data and the KS and Anderson Darling Tests to test the goodness of fit of spring and summer and winter and fall ridership to normal, exponential and poisson distributions. Spring and Summer is defined as March-August and Winter and Fall is defined as September-February. 
