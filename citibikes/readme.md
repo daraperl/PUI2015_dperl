@@ -18,3 +18,12 @@ portions of the chi squared test were performed a certain way.  I was in charge 
 code, as well as figuring out why our chi square statistic was negative (we had reached the maximum size of the number).  
 When we compared the final codes this code was completed and chosen.  As a group we chose to keep coding and comparing to 
 have our best version of the code. 
+
+
+
+Readme File for PUI 2015 HW4 Assignment 1:
+
+Team Members: Dara Perl
+
+Required Data: January 2015 Citibike Data
+In this file I used the January 2015 Citibike Data and the KS, Pearson and Spearman Tests to test the goodness of fit of male and female and day and night riders. 
